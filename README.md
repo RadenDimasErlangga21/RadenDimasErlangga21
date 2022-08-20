@@ -3,7 +3,7 @@ Graphic Designer | Aspiring College Student</h1>
 
 
  - 🔭 I’m currently studying at Malang State Polytechnic
- - 🎮 I Narrate and review video game at Rearchivu
+ - 🎮 I narrate and review video game at Rearchivu
  - 🕹️ I Also made a virtual youtuber project using Vroid and VseeFace implementation at <a href="https://www.youtube.com/c/Dekkuden">Dekkuden</a>
  - 🌱 I’m currently learning **Python and C#** 
  - 💬 Ask me about **Java, PHP, And Networking** 
