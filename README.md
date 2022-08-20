@@ -20,7 +20,6 @@ Graphic Designer | Aspiring College Student</h1>
 <h3 align="center"> Operating System:</h3>
 <p align="center"> <a href="https://www.apple.com/id/ios/ios-15/" target="_blank"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> </a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a>
-<a href="https://zorin.com/os/" target="_blank"> <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/>
 </a> <a href="https://www.android.com/intl/id_id/" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> </a>
 
 <h3 align="center">Languages and Tools:</h3>
