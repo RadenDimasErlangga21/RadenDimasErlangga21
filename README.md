@@ -1,5 +1,5 @@
 <h2 align="center">My name is Raden Dimas Erlangga<br>
-Graphic Designer | Aspiring College Student</h1>
+Founder of ReArchivu</h1>
 
 
  - 🔭 Currently studying at Malang State Polytechnic
