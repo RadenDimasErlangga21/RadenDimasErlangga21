@@ -3,16 +3,15 @@
 <h2 align="center">My name is Raden Dimas Erlangga<br>
 Founder of ReArchivu</h1>
 
-
- - 🔭 Currently studying at Malang State Polytechnic
- - 🎮 Founder of <a href="https://www.youtube.com/@ReArchivu"> Rearchivu </a>
- - 🖼️ Design Banner, Community Post, Feeds for <a href="https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/">Let's Grooww Community</a>
- - 🕹️ Made a virtual youtuber project using Vroid and VseeFace implementation at <a href="https://www.youtube.com/c/Dekkuden">Dekkuden</a>
- - 🎲 Hobby : Reading Books, Video Games and Console Hacking
- - 🌱 I’m currently learning **Python and C#** 
- - 💬 Ask me about **Java, PHP, And Networking** 
- - 🌠 Feel free to connect with me!
-
+🔭 Currently studying at Malang State Polytechnic
+🎮 Founder of [Rearchivu](https://www.youtube.com/@ReArchivu)
+🖼️ Designed Banners, Community Posts, and Feeds for [Let's Grooww Community](https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/)
+📔 Working as an Editor for Gamewave Magazine
+🕹️ Created a virtual YouTuber project using Vroid and VseeFace implementation at [Dekkuden](https://www.youtube.com/c/Dekkuden)
+🎲 Hobbies: Reading Books, Video Games, and Console Hacking / Modding
+🌱 Currently learning **Python and C#**
+💬 Ask me about **Java, PHP, and Networking**
+🌠 Feel free to connect with me!
 
 ------
 
