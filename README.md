@@ -5,9 +5,9 @@ Founder of ReArchivu</h1>
 
 - 🔭 Currently studying at Malang State Polytechnic
 - 🎮 Founder of [Rearchivu](https://www.youtube.com/@ReArchivu)
-- 🖼️ Designed Banners, Community Posts, and Feeds for [Let's Grooww Community](https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/)
 - 📔 Working as an Editor for Gamewave Magazine
 - 🕹️ Created a virtual YouTuber project using Vroid and VseeFace implementation at [Dekkuden](https://www.youtube.com/c/Dekkuden)
+- 🖼️ Designed Banners, Community Posts, and Feeds for [Let's Grooww Community](https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/)
 - 🎲 Hobbies: Reading Books, Video Games, and Console Hacking / Modding
 - 🌱 Currently learning **Python and C#**
 - 💬 Ask me about **Java, PHP, and Networking**
