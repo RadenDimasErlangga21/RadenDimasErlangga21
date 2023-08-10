@@ -10,7 +10,7 @@ Founder of ReArchivu</h1>
 - 🖼️ Designed Banners, Community Posts, and Feeds for [Let's Grooww Community](https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/)
 - 🎲 Hobbies: Reading Books, Video Games, and Console Hacking / Modding
 - 🌱 Currently learning **Python, C# and JS**
-- 💬 Ask me about **Java, PHP, and Networking**
+- 💬 Ask me about **Java, PHP, and Networking, Console Hacking**
 - 🌠 Feel free to connect with me!
 
 ------
