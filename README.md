@@ -31,5 +31,4 @@ Founder of ReArchivu</h1>
 
 <h3 align="center"> Github Status:</h3>
 <p align="center"> <img height="167" align="left" src="https://github-readme-stats.vercel.app/api?username=RadenDimasErlangga21&show_icons=true&theme=tokyonight" style="max-width:100%;" alt="Raden" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadenDimasErlangga21&layout=compact&theme=tokyonight" />  </p>
-https://metrics.lecoq.io/insights/RadenDimasErlangga21
 
