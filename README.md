@@ -17,8 +17,8 @@ Founder of ReArchivu</h1>
 
 <h3 align="center">My Social Media:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/raden-dimas-erlangga-64268b179/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wandesay" /> </a>
-<a href="https://www.instagram.com/rad.raden/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="wan.desay"/> </a>
+<a href="https://www.linkedin.com/in/raden-dimas-erlangga-64268b179/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raden" /> </a>
+<a href="https://www.instagram.com/rad.raden/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rad.raden"/> </a>
 
 
 <h3 align="center"> Operating System:</h3>
