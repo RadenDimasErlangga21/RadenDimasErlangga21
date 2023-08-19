@@ -20,11 +20,11 @@
 
 <h3 align="left">Operating System:</h3>
 <p align="left">
-  <a href="https://www.apple.com/id/ios/ios-15/" target="_blank">
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-  </a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  </a>
+  <a href="https://www.apple.com/id/ios/ios-15/" target="_blank">
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
   </a>
   <a href="https://www.android.com/intl/id_id/" target="_blank">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
@@ -37,6 +37,9 @@
   </a>
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  </a>
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   </a>
 </p>
 
