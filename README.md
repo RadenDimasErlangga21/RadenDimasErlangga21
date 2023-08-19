@@ -17,9 +17,9 @@
 <h3 align="left">My Social Media:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raden-dimas-erlangga-64268b179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raden" /></a>
-<a href="https://www.instagram.com/rad.raden/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rad.raden"/></a></p>
+<a href="https://www.instagram.com/rad.raden/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rad.raden"/></a>
 <a href="https://www.youtube.com/@ReArchivu" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="ReArchivu" /> </a>
-
+</p>
 
 <h3 align="left">Operating System:</h3>
 <p align="left">
