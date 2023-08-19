@@ -1,16 +1,27 @@
 ![readmebox](https://github.com/RadenDimasErlangga21/RadenDimasErlangga21/assets/70926476/b578ca52-5825-432a-9cc9-df9b74294bd3)
 
-```diff
-# My name is Radem Dimas Erlangga 
-# 🎮 Founder of [Rearchivu](https://www.youtube.com/@ReArchivu)
-# 🔭 Currently studying at Malang State Polytechnic
-# 🕹️ Created a virtual YouTuber project using Vroid and VseeFace implementation at [Dekkuden](https://www.youtube.com/c/Dekkuden)
-# 🖼️ Designed Banners, Community Posts, and Feeds for [Let's Grooww Community](https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/)
-# 🎲 Hobbies: Reading Books, Video Games, and Console Hacking / Modding
-# 🌱 Currently learning **Python, C# and JS**
-# 💬 Ask me about **Java, PHP, and Networking, Console Hacking**
-# 🌠 Feel free to connect with me!
-``` 
+<html>
+
+<head>
+  <title>Radem Dimas Erlangga</title>
+</head>
+
+<body>
+  <h1>My Introduction:</h1>
+  <ul>
+    <li>My name is Radem Dimas Erlangga</li>
+    <li>Founder of <a href="https://www.youtube.com/@ReArchivu">Rearchivu</a></li>
+    <li>Currently studying at Malang State Polytechnic</li>
+    <li>Created a virtual YouTuber project using Vroid and VseeFace implementation at <a href="https://www.youtube.com/c/Dekkuden">Dekkuden</a></li>
+    <li>Designed Banners, Community Posts, and Feeds for <a href="https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/">Let's Grooww Community</a></li>
+    <li>Hobbies: Reading Books, Video Games, and Console Hacking / Modding</li>
+    <li>Currently learning <strong>Python, C#, and JS</strong></li>
+    <li>Ask me about <strong>Java, PHP, Networking, Console Hacking</strong></li>
+    <li>Feel free to connect with me!</li>
+  </ul>
+</body>
+
+</html>
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
