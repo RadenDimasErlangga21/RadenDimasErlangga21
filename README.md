@@ -2,14 +2,14 @@
 
 ```diff
 # My name is Radem Dimas Erlangga 
-- 🎮 Founder of [Rearchivu](https://www.youtube.com/@ReArchivu)
-- 🔭 Currently studying at Malang State Polytechnic
-- 🕹️ Created a virtual YouTuber project using Vroid and VseeFace implementation at [Dekkuden](https://www.youtube.com/c/Dekkuden)
-- 🖼️ Designed Banners, Community Posts, and Feeds for [Let's Grooww Community](https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/)
-- 🎲 Hobbies: Reading Books, Video Games, and Console Hacking / Modding
-- 🌱 Currently learning **Python, C# and JS**
-- 💬 Ask me about **Java, PHP, and Networking, Console Hacking**
-- 🌠 Feel free to connect with me!
+# 🎮 Founder of [Rearchivu](https://www.youtube.com/@ReArchivu)
+# 🔭 Currently studying at Malang State Polytechnic
+# 🕹️ Created a virtual YouTuber project using Vroid and VseeFace implementation at [Dekkuden](https://www.youtube.com/c/Dekkuden)
+# 🖼️ Designed Banners, Community Posts, and Feeds for [Let's Grooww Community](https://www.youtube.com/channel/UC8wkpzZkIj0oW1h4dpOraUA/)
+# 🎲 Hobbies: Reading Books, Video Games, and Console Hacking / Modding
+# 🌱 Currently learning **Python, C# and JS**
+# 💬 Ask me about **Java, PHP, and Networking, Console Hacking**
+# 🌠 Feel free to connect with me!
 ``` 
 
 <h3 align="left">My Social Media:</h3>
