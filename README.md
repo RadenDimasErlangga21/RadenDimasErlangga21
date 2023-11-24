@@ -11,11 +11,6 @@
 # 🌠 Feel free to connect with me!
 ```
 
-<details>
-    <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/o4c8auv7ggy72b4lpstn1iaci"><img src="https://spotify-recently-played-readme.vercel.app/api?user=o4c8auv7ggy72b4lpstn1iaci&unique=true&count=10" alt="Spotify recently played"></a>
-</details>
-
 <h3 align="left">My Social Media:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/raden-dimas-erlangga-64268b179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raden" /></a>
