@@ -13,7 +13,7 @@
 
 <details>
     <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/o4c8auv7ggy72b4lpstn1iaci"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+    <a href="https://open.spotify.com/user/o4c8auv7ggy72b4lpstn1iaci"><img src="https://spotify-recently-played-readme.vercel.app/api?user=o4c8auv7ggy72b4lpstn1iaci&unique=true&count=10" alt="Spotify recently played"></a>
 </details>
 
 <h3 align="left">My Social Media:</h3>
