@@ -1,7 +1,7 @@
 ![readmebox](https://github.com/RadenDimasErlangga21/RadenDimasErlangga21/assets/70926476/b578ca52-5825-432a-9cc9-df9b74294bd3)
 
 ```diff
-# My name is Radem Dimas Erlangga 
+# My name is Raden Dimas Erlangga 
 # 🎮 Founder of  ReArchivu (https://www.youtube.com/@ReArchivu)
 # 🔭 Currently studying at Malang State Polytechnic
 # 🕹️ Created a virtual YouTuber project using Vroid and VseeFace implementation at (https://www.youtube.com/c/Dekkuden)
@@ -9,7 +9,12 @@
 # 🌱 Currently learning Python, C# and JS
 # 💬 Ask me about Java, PHP, and Networking, Console Hacking
 # 🌠 Feel free to connect with me!
-``` 
+```
+
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
 
 <h3 align="left">My Social Media:</h3>
 <p align="left">
